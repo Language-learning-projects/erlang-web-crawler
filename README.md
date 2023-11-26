@@ -20,4 +20,7 @@ In this project, you’ll build a Distributed Web Crawler using Erlang. You’ll
 
 ## Requirements
 
-- 
+- The application must extract all links from a page.
+- The application must be able to crawl multiple pages at the same time.
+- The application must never stop crawling out of itself.
+- The application must have rate limiting features to make sure all pages can be retrieved.
