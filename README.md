@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Erlang web crawler
 
 This repository contains code of a learning project called: "Erlang web crawler".
